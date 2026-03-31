@@ -1,0 +1,9 @@
+streamlit
+openai
+google-generativeai
+pymupdf
+faiss-cpu
+langchain
+tiktoken
+gtts
+numpy
