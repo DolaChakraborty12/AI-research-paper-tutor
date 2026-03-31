@@ -1,1 +1,5 @@
-The AI Research Paper Tutor helps users understand research papers more easily. It simplifies the content and provides audio explanations of key concepts, making it feel like a professor teaching a topic in class. A chatbot is also available to answer questions and offer clearer explanations of any parts that are difficult to understand.
+The AI Research Paper Tutor helps users--
+->understand research papers more easily. 
+-> It simplifies the content and provides audio explanations of key concepts. 
+-> It feels like a professor teaching a topic in class. 
+-> A chatbot is also available to answer questions and offer clearer explanations of any parts that are difficult to understand.
